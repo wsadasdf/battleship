@@ -6,7 +6,7 @@
  *************************************************************************/
 
 
-#include "stdafx.h"//for visual studio
+//#include "stdafx.h"//for visual studio
 #include "functions.h"
 
 using namespace std;//simple program, not an issue
@@ -14,7 +14,6 @@ using namespace std;//simple program, not an issue
 
 int main()
 {
-	int x=1, y=1;
 	cout << "ready to set ships...\n";
 	system("pause");
 	rand_set();
