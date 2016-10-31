@@ -1,14 +1,15 @@
-/*	hopefully a successful battleship console game
- *	made while I was board... so far no COM
- *	however functional, just 1 player
- */
+/*************************************************************************
+*	hopefully a successful battleship console game
+*	made while I was board... so far no COM
+*	however functional, just 1 player
+*	there is a lot of sloppy code in this.(my first self project)
+ *************************************************************************/
 
 
-#include "stdafx.h"
+#include "stdafx.h"//for visual studio
 #include "functions.h"
 
-using namespace std;
-
+using namespace std;//simple program, not an issue
 
 
 int main()
