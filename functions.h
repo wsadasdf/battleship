@@ -24,7 +24,7 @@ class allexceptions: public exception
 {
 	virtual const char* what() const throw()
 	{
-		return "an exception of \"you didn't listen\" has occurred.";
+		return "an exception of \"rules not followed\" has occurred.";
 	}
 }ex;
 
